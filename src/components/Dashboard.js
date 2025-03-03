@@ -14,7 +14,7 @@ function Dashboard() {
   const [currentOrders, setCurrentOrders] = useState([
     {
       id: 1,
-      serviceProvider: "Mike Smith",
+      serviceProvider: "Prashant Mahor",
       service: "Gardening",
       status: "In Progress",
       date: "2024-01-15",
@@ -23,7 +23,7 @@ function Dashboard() {
     },
     {
       id: 2,
-      serviceProvider: "Sarah Johnson",
+      serviceProvider: "Shivam",
       service: "House Cleaning",
       status: "Scheduled",
       date: "2024-01-18",
@@ -35,7 +35,7 @@ function Dashboard() {
   const [orderHistory, setOrderHistory] = useState([
     {
       id: 101,
-      serviceProvider: "David Wilson",
+      serviceProvider: "Tarun Singh",
       service: "Electrical Work",
       status: "Completed",
       date: "2024-01-10",
@@ -45,7 +45,7 @@ function Dashboard() {
     },
     {
       id: 102,
-      serviceProvider: "Emma Davis",
+      serviceProvider: "Rani Devi ",
       service: "Plumbing",
       status: "Completed",
       date: "2024-01-05",

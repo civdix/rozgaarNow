@@ -97,15 +97,15 @@ function ContactUs() {
                 <div className="row text-center">
                   <div className="col-md-4">
                     <i className="fas fa-phone-alt mb-2"></i>
-                    <p>+1 234 567 890</p>
+                    <p>+91983493849</p>
                   </div>
                   <div className="col-md-4">
                     <i className="fas fa-envelope mb-2"></i>
-                    <p>info@localhire.com</p>
+                    <p>info@rozgaarnow.com</p>
                   </div>
                   <div className="col-md-4">
                     <i className="fas fa-map-marker-alt mb-2"></i>
-                    <p>123 Main St, City</p>
+                    <p>Mathura, Krishna Nagar</p>
                   </div>
                 </div>
               </div>
