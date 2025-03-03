@@ -151,10 +151,10 @@ function Home() {
         <div className="container">
           <div className="hero-content">
             <h1 className="display-4 text-white mb-4">
-              Find Local Service Providers Near You
+              Find Local Skilled Worker Near You
             </h1>
             <p className="lead text-white mb-4">
-              Connect with skilled professionals for all your home service needs
+              Empowering Rural Talent and Bridging the Employement Gap{" "}
             </p>
             <div className="search-box">
               <div className="row g-2">
@@ -165,10 +165,10 @@ function Home() {
                     onChange={(e) => setSelectedArea(e.target.value)}
                   >
                     <option value="">Select Your Area</option>
-                    <option value="downtown">Downtown</option>
-                    <option value="suburbs">Suburbs</option>
-                    <option value="westend">West End</option>
-                    <option value="eastend">East End</option>
+                    <option value="downtown">Krishna Nagar</option>
+                    <option value="suburbs">Chhatikara</option>
+                    <option value="westend">Maha Vidya</option>
+                    <option value="eastend">Kalyanam Karoti</option>
                   </select>
                 </div>
                 <div className="col-md-5">
