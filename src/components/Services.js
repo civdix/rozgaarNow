@@ -19,7 +19,7 @@ function Services() {
       id: 2,
       title: "Carpenter",
       image:
-        "https://images.unsplash.com/photo-1504148455328-c376907d081c?w=500&h=300&fit=crop",
+        "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=500&h=300&fit=crop",
       description: "Expert woodworking and furniture repairs",
       hourlyRate: "₹300-800",
       skills: ["Furniture Making", "Wood Repair", "Installation"],
@@ -55,7 +55,7 @@ function Services() {
       id: 6,
       title: "Painter",
       image:
-        "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=500&h=300&fit=crop",
+        "https://5.imimg.com/data5/GX/PR/MY-28551353/wall-painting-service.jpg",
       description: "Professional painting services",
       hourlyRate: "₹200-600",
       skills: ["Interior", "Exterior", "Wall Preparation"],
@@ -64,7 +64,7 @@ function Services() {
       id: 7,
       title: "AC Technician",
       image:
-        "https://images.unsplash.com/photo-1621905251918-48416bd8575a?w=500&h=300&fit=crop",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU_igM2alUMyVmC9f86i1Ox_UQe5aDJvBM1g&s",
       description: "AC repair and maintenance services",
       hourlyRate: "₹400-1000",
       skills: ["Repair", "Installation", "Maintenance"],
@@ -73,7 +73,7 @@ function Services() {
       id: 8,
       title: "Mason",
       image:
-        "https://images.unsplash.com/photo-1590674899484-13da0d1b0b87?w=500&h=300&fit=crop",
+        "https://media.istockphoto.com/id/2127751798/photo/senior-worker-in-construction-building-site.jpg?s=612x612&w=0&k=20&c=zuNUVlKcmbKRIGRWWpfslGg12xs4aFeQ2EyPEuqmapc=",
       description: "Professional masonry and construction work",
       hourlyRate: "₹300-700",
       skills: ["Bricklaying", "Concrete Work", "Repairs"],
@@ -82,7 +82,7 @@ function Services() {
       id: 9,
       title: "Driver",
       image:
-        "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=500&h=300&fit=crop",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl1t5qQTGY4iSqqDmeL2xbmcoUjgtKa8aC9g&s",
       description: "Professional driving services",
       hourlyRate: "₹150-400",
       skills: ["Safe Driving", "Navigation", "Vehicle Maintenance"],
@@ -91,7 +91,7 @@ function Services() {
       id: 10,
       title: "Security Guard",
       image:
-        "https://images.unsplash.com/photo-1541697467298-16d5a86c0321?w=500&h=300&fit=crop",
+        "https://content.jdmagicbox.com/v2/comp/mathura/d6/9999px565.x565.241026125200.t9d6/catalogue/mother-india-security-and-safety-services-mandi-bypass-mathura-security-services-1qipldhv19-250.jpg",
       description: "Professional security services",
       hourlyRate: "₹150-400",
       skills: ["Surveillance", "Access Control", "Emergency Response"],
@@ -109,7 +109,7 @@ function Services() {
       id: 12,
       title: "Pest Control",
       image:
-        "https://images.unsplash.com/photo-1632496164934-8ec71a0a4c90?w=500&h=300&fit=crop",
+        "https://static.vecteezy.com/system/resources/previews/036/614/933/large_2x/an-elderly-man-in-the-village-sprays-his-vegetable-garden-against-pests-a-worker-sprays-pesticide-on-green-potato-leaves-outdoors-pest-control-photo.jpg",
       description: "Professional pest control services",
       hourlyRate: "₹300-800",
       skills: ["Pest Removal", "Prevention", "Sanitization"],
@@ -127,7 +127,7 @@ function Services() {
       id: 14,
       title: "Tailor",
       image:
-        "https://images.unsplash.com/photo-1590333748338-d629e4564ad9?w=500&h=300&fit=crop",
+        "https://media.istockphoto.com/id/1147299980/photo/indian-women-stitching-cloths-by-machine-at-home-stock-image.jpg?s=612x612&w=0&k=20&c=jxsZcW88QrmhLame4ChJ4UpvimJMoJZWHUGtfYA0f5c=",
       description: "Professional tailoring services",
       hourlyRate: "₹200-500",
       skills: ["Stitching", "Alterations", "Design"],
