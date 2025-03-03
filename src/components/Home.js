@@ -91,7 +91,7 @@ function Home() {
       id: 10,
       title: "Security Guard",
       image:
-        "https://lawndoctordenver.com/wp-content/uploads/2019/01/AdobeStock_119263043.jpeg",
+        "https://content.jdmagicbox.com/v2/comp/mathura/d6/9999px565.x565.241026125200.t9d6/catalogue/mother-india-security-and-safety-services-mandi-bypass-mathura-security-services-1qipldhv19-250.jpg",
       description: "Professional security services",
       hourlyRate: "₹150-400",
       skills: ["Surveillance", "Access Control", "Emergency Response"],
@@ -127,7 +127,7 @@ function Home() {
       id: 14,
       title: "Tailor",
       image:
-        "https://images.unsplash.com/photo-1590333748338-d629e4564ad9?w=500&h=300&fit=crop",
+        "https://media.istockphoto.com/id/1147299980/photo/indian-women-stitching-cloths-by-machine-at-home-stock-image.jpg?s=612x612&w=0&k=20&c=jxsZcW88QrmhLame4ChJ4UpvimJMoJZWHUGtfYA0f5c=",
       description: "Professional tailoring services",
       hourlyRate: "₹200-500",
       skills: ["Stitching", "Alterations", "Design"],
