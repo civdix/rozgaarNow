@@ -1,0 +1,118 @@
+.contact-container {
+  min-height: calc(100vh - 76px);
+  background: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)),
+    url("https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1920&q=80");
+  background-size: cover;
+  background-position: center;
+  padding: 4rem 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.floating-worker {
+  position: absolute;
+  right: -100px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 500px;
+  height: 500px;
+  animation: float 6s ease-in-out infinite;
+  opacity: 0.9;
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(-50%) translateX(0);
+  }
+  50% {
+    transform: translateY(-50%) translateX(-20px);
+  }
+  100% {
+    transform: translateY(-50%) translateX(0);
+  }
+}
+
+.worker-image {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.contact-card {
+  background: rgba(255, 255, 255, 0.95);
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+}
+
+.contact-card h2 {
+  color: #333;
+  font-weight: 600;
+}
+
+.form-label {
+  font-weight: 500;
+  color: #555;
+}
+
+.form-control {
+  border: 1px solid #ddd;
+  padding: 0.8rem;
+}
+
+.form-control:focus {
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+  border-color: #80bdff;
+}
+
+.btn-primary {
+  padding: 0.8rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.btn-primary:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.contact-info {
+  border-top: 1px solid #eee;
+  padding-top: 2rem;
+}
+
+.contact-info i {
+  font-size: 1.5rem;
+  color: #007bff;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1200px) {
+  .floating-worker {
+    width: 400px;
+    height: 400px;
+    right: -150px;
+  }
+}
+
+@media (max-width: 992px) {
+  .floating-worker {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .contact-container {
+    padding: 2rem 0;
+  }
+
+  .contact-card {
+    padding: 1.5rem;
+  }
+
+  .contact-info .col-md-4 {
+    margin-bottom: 1.5rem;
+  }
+}

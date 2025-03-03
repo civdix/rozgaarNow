@@ -1,0 +1,103 @@
+.dashboard-container {
+  min-height: calc(100vh - 76px);
+  background-color: #f8f9fa;
+  padding: 20px 0;
+}
+
+.profile-card {
+  background: white;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.profile-icon {
+  font-size: 3.5rem;
+  color: #007bff;
+  margin-right: 1.5rem;
+}
+
+.profile-info h2 {
+  margin-bottom: 0.25rem;
+  color: #333;
+}
+
+.dashboard-card {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 1.5rem;
+}
+
+.dashboard-card h3 {
+  color: #333;
+  font-size: 1.5rem;
+}
+
+.table {
+  margin-bottom: 0;
+}
+
+.table th {
+  border-top: none;
+  color: #666;
+  font-weight: 600;
+}
+
+.table td {
+  vertical-align: middle;
+}
+
+.badge {
+  padding: 0.5em 0.75em;
+  font-weight: 500;
+}
+
+.rating {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.btn-sm {
+  padding: 0.25rem 0.75rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .profile-card {
+    padding: 1rem;
+  }
+
+  .profile-icon {
+    font-size: 2.5rem;
+    margin-right: 1rem;
+  }
+
+  .dashboard-card {
+    padding: 1rem;
+  }
+
+  .table {
+    font-size: 0.875rem;
+  }
+}
+
+/* Custom scrollbar for table responsive */
+.table-responsive::-webkit-scrollbar {
+  height: 8px;
+}
+
+.table-responsive::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.table-responsive::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
+
+.table-responsive::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}

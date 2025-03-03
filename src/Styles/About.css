@@ -1,0 +1,106 @@
+.about-container {
+  min-height: 100vh;
+}
+
+.about-hero {
+  position: relative;
+  background: url("https://images.unsplash.com/photo-1521791136064-7986c2920216?auto=format&fit=crop&w=1920&q=80");
+  background-size: cover;
+  background-position: center;
+  height: 40vh;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.about-hero .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.about-hero .container {
+  position: relative;
+  z-index: 1;
+}
+
+.feature-card {
+  text-align: center;
+  padding: 2rem;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  height: 100%;
+  transition: transform 0.3s ease;
+}
+
+.feature-card:hover {
+  transform: translateY(-5px);
+}
+
+.feature-card i {
+  font-size: 2.5rem;
+  color: #007bff;
+}
+
+.impact-section {
+  padding: 3rem;
+  background: #f8f9fa;
+  border-radius: 10px;
+}
+
+.impact-stat h3 {
+  font-size: 2.5rem;
+  color: #007bff;
+  font-weight: bold;
+}
+
+.creators-section {
+  padding: 3rem;
+}
+
+.creator-card {
+  padding: 2rem;
+  margin: 1rem;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.creator-card:hover {
+  transform: translateY(-5px);
+}
+
+.creator-image {
+  font-size: 4rem;
+  color: #007bff;
+  margin-bottom: 1rem;
+}
+
+.creator-card h3 {
+  color: #333;
+  margin-bottom: 0.5rem;
+}
+
+.creator-card p {
+  color: #666;
+}
+
+@media (max-width: 768px) {
+  .about-hero {
+    height: 30vh;
+  }
+
+  .feature-card {
+    margin-bottom: 1rem;
+  }
+
+  .impact-stat {
+    margin-bottom: 2rem;
+  }
+}
