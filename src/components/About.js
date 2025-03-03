@@ -95,7 +95,7 @@ function About() {
                       <i className="fas fa-user-circle"></i>
                     </div>
                     <h3>Vrinda Sri Gaur</h3>
-                    <p>Co-founder & Developer</p>
+                    <p>founder </p>
                   </div>
                 </div>
                 <div className="col-md-6">
@@ -103,8 +103,8 @@ function About() {
                     <div className="creator-image">
                       <i className="fas fa-user-circle"></i>
                     </div>
-                    <h3>Shreya Vashishth</h3>
-                    <p>Co-founder & Developer</p>
+                    <h3>Shreya Vashistha</h3>
+                    <p>Developer</p>
                   </div>
                 </div>
               </div>
