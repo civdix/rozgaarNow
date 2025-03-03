@@ -4,8 +4,8 @@ import "../Styles/Dashboard.css";
 function Dashboard() {
   // Mock user data (replace with actual user data from your backend)
   const userData = {
-    name: "John Doe",
-    email: "john@example.com",
+    name: "Priya Singh",
+    email: "priya11213@example.com",
     userType: "customer",
     joinedDate: "Jan 2024",
   };

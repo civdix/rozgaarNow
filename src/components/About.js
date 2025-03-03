@@ -7,7 +7,7 @@ function About() {
       <div className="about-hero">
         <div className="overlay"></div>
         <div className="container">
-          <h1 className="display-4 text-white">About LocalHire</h1>
+          <h1 className="display-4 text-white">About RozgaarNow</h1>
           <p className="lead text-white">
             Connecting Communities with Trusted Service Providers
           </p>
