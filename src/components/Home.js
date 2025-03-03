@@ -19,7 +19,7 @@ function Home() {
       id: 2,
       title: "Carpenter",
       image:
-        "https://images.unsplash.com/photo-1504148455328-c376907d081c?w=500&h=300&fit=crop",
+        "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=500&h=300&fit=crop",
       description: "Expert woodworking and furniture repairs",
       hourlyRate: "₹300-800",
       skills: ["Furniture Making", "Wood Repair", "Installation"],
@@ -55,7 +55,7 @@ function Home() {
       id: 6,
       title: "Painter",
       image:
-        "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=500&h=300&fit=crop",
+        "https://5.imimg.com/data5/GX/PR/MY-28551353/wall-painting-service.jpg",
       description: "Professional painting services",
       hourlyRate: "₹200-600",
       skills: ["Interior", "Exterior", "Wall Preparation"],
@@ -64,7 +64,7 @@ function Home() {
       id: 7,
       title: "AC Technician",
       image:
-        "https://images.unsplash.com/photo-1621905251918-48416bd8575a?w=500&h=300&fit=crop",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU_igM2alUMyVmC9f86i1Ox_UQe5aDJvBM1g&s",
       description: "AC repair and maintenance services",
       hourlyRate: "₹400-1000",
       skills: ["Repair", "Installation", "Maintenance"],
@@ -82,7 +82,7 @@ function Home() {
       id: 9,
       title: "Driver",
       image:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToaqR5Gdr5AHKfv1Jum1x7aiPqm1XyWxWFlg&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl1t5qQTGY4iSqqDmeL2xbmcoUjgtKa8aC9g&s",
       description: "Professional driving services",
       hourlyRate: "₹150-400",
       skills: ["Safe Driving", "Navigation", "Vehicle Maintenance"],
