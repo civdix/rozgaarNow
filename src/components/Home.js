@@ -109,7 +109,7 @@ function Home() {
       id: 12,
       title: "Pest Control",
       image:
-        "https://images.unsplash.com/photo-1632496164934-8ec71a0a4c90?w=500&h=300&fit=crop",
+        "https://static.vecteezy.com/system/resources/previews/036/614/933/large_2x/an-elderly-man-in-the-village-sprays-his-vegetable-garden-against-pests-a-worker-sprays-pesticide-on-green-potato-leaves-outdoors-pest-control-photo.jpg",
       description: "Professional pest control services",
       hourlyRate: "₹300-800",
       skills: ["Pest Removal", "Prevention", "Sanitization"],
