@@ -73,7 +73,7 @@ function Home() {
       id: 8,
       title: "Mason",
       image:
-        "https://images.unsplash.com/photo-1590674899484-13da0d1b0b87?w=500&h=300&fit=crop",
+        "https://media.istockphoto.com/id/2127751798/photo/senior-worker-in-construction-building-site.jpg?s=612x612&w=0&k=20&c=zuNUVlKcmbKRIGRWWpfslGg12xs4aFeQ2EyPEuqmapc=",
       description: "Professional masonry and construction work",
       hourlyRate: "₹300-700",
       skills: ["Bricklaying", "Concrete Work", "Repairs"],
@@ -82,7 +82,7 @@ function Home() {
       id: 9,
       title: "Driver",
       image:
-        "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=500&h=300&fit=crop",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToaqR5Gdr5AHKfv1Jum1x7aiPqm1XyWxWFlg&s",
       description: "Professional driving services",
       hourlyRate: "₹150-400",
       skills: ["Safe Driving", "Navigation", "Vehicle Maintenance"],
@@ -91,7 +91,7 @@ function Home() {
       id: 10,
       title: "Security Guard",
       image:
-        "https://images.unsplash.com/photo-1541697467298-16d5a86c0321?w=500&h=300&fit=crop",
+        "https://lawndoctordenver.com/wp-content/uploads/2019/01/AdobeStock_119263043.jpeg",
       description: "Professional security services",
       hourlyRate: "₹150-400",
       skills: ["Surveillance", "Access Control", "Emergency Response"],
